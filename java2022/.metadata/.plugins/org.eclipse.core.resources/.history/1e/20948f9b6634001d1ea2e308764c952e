@@ -1,0 +1,14 @@
+package inro;
+
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("Hello Word");
+		//deðiþken isimlendirmeleri java'da camelCase yazýlýr.
+		String ortaMetin = "Ýlginizi çekebilir";
+		String altMetin = "Vadesüresi";
+		
+		System.out.println(ortaMetin);
+		System.out.println(altMetin);
+	}
+
+}
